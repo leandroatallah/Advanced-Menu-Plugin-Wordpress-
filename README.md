@@ -1,4 +1,4 @@
-# Advanced-Menu-Plugin-Wordpress-
+# Advanced Menu (Plugin WordPress)
 
 WordPress plugin to show/hide some menu options in admin page 
 
